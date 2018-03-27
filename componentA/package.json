@@ -1,0 +1,9 @@
+{
+  "name": "componentA",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-lmdb": "^0.5.0"
+  }
+}
